@@ -12,3 +12,6 @@ This repository is just practice how to use github.
     - Use **git push** command on CUI
 - 4.Pull request
     - Make a new brach.
+    - Pull request the brach.
+    - Review and comment to the modified point of brach.
+    - Marge.
