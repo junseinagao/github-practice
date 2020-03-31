@@ -10,3 +10,5 @@ This repository is just practice how to use github.
     - Use **git add** command on CUI
     - Use **git commit** command on CUI
     - Use **git push** command on CUI
+- 4.Pull request
+    - Make a new brach.
